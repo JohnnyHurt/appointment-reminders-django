@@ -1,7 +1,7 @@
 <a  href="https://www.twilio.com">
 <img  src="https://static0.twilio.com/marketing/bundles/marketing/img/logos/wordmark-red.svg"  alt="Twilio"  width="250"  />
 </a>
- 
+
 # Twilio Sample App Template
 
 [![Actions Status](https://github.com/TwilioDevEd/appointment-reminders-django/workflows/Django%20CI/badge.svg)](https://github.com/TwilioDevEd/appointment-reminders-django/actions)
@@ -116,7 +116,7 @@ If you have [Docker](https://www.docker.com/) already installed on your machine,
 
 ### Tests
 
-**NOTE:** Be sure you have Google Chrome installed with the same version as the `chromedriver` installed earlier. Usually it's the latest version. 
+**NOTE:** Be sure you have Google Chrome installed with the same version as the `chromedriver` installed earlier. Usually it's the latest version.
 
 You can run the tests locally by typing:
 

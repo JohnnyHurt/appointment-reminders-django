@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Santo_Domingo'
 
 USE_I18N = True
 
@@ -146,4 +146,3 @@ DRAMATIQ_BROKER = {
 
 # Reminder time: how early text messages are sent in advance of appointments
 REMINDER_TIME = 30  # minutes
-
